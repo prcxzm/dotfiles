@@ -150,4 +150,3 @@ export GPG_TTY="$(tty)"
 
 # BAT Theme (cat replacement)
 export BAT_THEME="base16"
-~ 
