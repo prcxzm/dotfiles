@@ -1,0 +1,48 @@
+sw_volume: 86
+audio_device_state:1:my_fifo
+audio_device_state:1:glava_fifo
+audio_device_state:1:My HTTP Stream
+audio_device_state:1:My Pulse Output
+state: stop
+current: 12
+random: 0
+repeat: 0
+single: 0
+consume: 0
+crossfade: 0
+mixrampdb: 0.000000
+mixrampdelay: -1.000000
+playlist_begin
+0:4K YouTube to MP3/Night Lovell - Contraband.mp3
+1:4K YouTube to MP3/Tender Kisses.mp3
+2:4K YouTube to MP3/tenno - lone wanderer (Lofi HipHop).mp3
+3:4K YouTube to MP3/The Chainsmokers - All We Know ft. Phoebe Ryan (Virtual Riot Remix).mp3
+4:4K YouTube to MP3/under the maple tree - bloom.mp3
+5:4K YouTube to MP3/Virtual Riot - Buttonmasher (FREE DOWNLOAD).mp3
+6:4K YouTube to MP3/Virtual Riot - Everyday (feat. Yosie).mp3
+7:4K YouTube to MP3/Virtual Riot - Pixel Forest.mp3
+8:4K YouTube to MP3/雲と幽霊.mp3
+9:4K YouTube to MP3/June Gloom..mp3
+10:4K YouTube to MP3/2𝑺𝑪𝑹𝑨𝑻𝑪𝑯 - 𝑭𝒖𝒆𝒈𝒐 𝑹𝒐𝒔𝒆 𝒇𝒕. 𝑷𝒓𝒛𝒏𝒕 (𝑺𝒍𝒐𝒘𝒆𝒅 & 𝒓𝒆𝒗𝒆𝒓𝒃).mp3
+11:4K YouTube to MP3/rook1e - grape soda.mp3
+12:4K YouTube to MP3/Kiss Your Homies - Senzawa (ft. R Dremekeks).mp3
+13:4K YouTube to MP3/M.I.M.E X 2Scratch - Medusa (prod. Noixes).mp3
+14:4K YouTube to MP3/2Scratch- No Love (𝓢𝓵𝓸𝔀𝓮𝓭 𝓭𝓸𝔀𝓷).mp3
+15:4K YouTube to MP3/JAMROCK LAND‼️(ipul mokodompis remix)2021 NEW!!!!.mp3
+16:4K YouTube to MP3/Masi_Kita_Lebe_Gaga_-_Zyron_Remixer_X_Frinsky_Agimat_-_(RDS_xAB'P)_Newwwww.mp3
+17:4K YouTube to MP3/Porter Robinson & Madeon - Shelter (LOXON Remix).mp3
+18:4K YouTube to MP3/Streets X Put Your Head On My Shoulder (Remix) [Bass Boosted].mp3
+19:4K YouTube to MP3/Tecno_Prank-_-Zyron_Remixer_-_(Fvngky)_Newww!!!_2K21.mp3
+20:4K YouTube to MP3/TIKTOK--I JUST CAN'T‼️(Kevin rater remix)2021!!!.mp3
+21:4K YouTube to MP3/viral!,Bikin ganas...Rando remix,2k21.mp3
+22:4K YouTube to MP3/bsd.u - SWAY.mp3
+23:4K YouTube to MP3/Madeon - All My Friends [Lyrics Lyric Video].mp3
+24:4K YouTube to MP3/Migos - T-Shirt (Moonbeat Remix).mp3
+25:4K YouTube to MP3/Porter Robinson - Mirror (Official Music Video).mp3
+26:4K YouTube to MP3/Porter Robinson - Something Comforting (Official Music Video).mp3
+27:4K YouTube to MP3/Virtual Riot - Still Kids (feat. Yosie) (2).mp3
+28:4K YouTube to MP3/SKAN & FINDING NOVYON - NEVER SLOW DOWN.mp3
+29:4K YouTube to MP3/Hoogway – Forever Ago.mp3
+30:4K YouTube to MP3/Hoogway - Same Ocean.mp3
+31:4K YouTube to MP3/dj viral karate ipul mokodompis 2021.mp3
+playlist_end
