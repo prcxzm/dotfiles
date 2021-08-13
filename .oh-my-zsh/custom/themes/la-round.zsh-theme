@@ -1,13 +1,13 @@
-# Ar-Round minimal zsh theme
+# La-Round minimal zsh theme
 # Author: owl4ce
 # ----------------------------------
 # https://github.com/owl4ce/dotfiles
 # Requires Nerd Fonts for the icons
 
 if [[ $EUID -eq 0 ]]; then
-    user_symbol="%F{1}%f"
+    user_symbol="%F{1}%Bλ%b%f"
 else
-    user_symbol="%F{5}%f"
+    user_symbol="%F{5}%Bλ%b%f"
 fi
 
 # Configuration
