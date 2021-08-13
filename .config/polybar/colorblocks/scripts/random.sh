@@ -4,11 +4,6 @@
 PFILE="$HOME/.config/polybar/colorblocks/colors.ini"
 RFILE="$HOME/.config/polybar/colorblocks/scripts/rofi/colors.rasi"
 
-# Get colors
-pywal_get() {
-	wal -i "$1" -q -t
-}
-
 # Change colors
 change_color() {
 	# polybar
@@ -30,42 +25,60 @@ change_color() {
 
 	* {
 	  al:    #00000000;
-	  bg:    ${BG}FF;
+	  bg:    #141C21FF;
 	  bg1:   ${SH8}FF;
 	  bg2:   ${SH7}FF;
 	  bg3:   ${SH6}FF;
-	  fg:    ${FGA}FF;
+	  fg:    #FFFFFFFF;
 	}
 	EOF
 	
 	polybar-msg cmd restart
 }
 
+get_random_number() {
+	RNUM=$(( ($RANDOM % $1) + 1 ))
+}
+
+get_random_color() {
+	RCOLOR="#"
+	for i in 1 2 3 4 5 6
+	do
+		get_random_number "16"
+		case $RNUM in
+			"1") NEXTDIGIT="1";;
+			"2") NEXTDIGIT="2";;
+			"3") NEXTDIGIT="3";;
+			"4") NEXTDIGIT="4";;
+			"5") NEXTDIGIT="5";;
+			"6") NEXTDIGIT="6";;
+			"7") NEXTDIGIT="7";;
+			"8") NEXTDIGIT="8";;
+			"9") NEXTDIGIT="9";;
+			"10") NEXTDIGIT="A";;
+			"11") NEXTDIGIT="B";;
+			"12") NEXTDIGIT="C";;
+			"13") NEXTDIGIT="D";;
+			"14") NEXTDIGIT="E";;
+			"15") NEXTDIGIT="F";;
+			"16") NEXTDIGIT="0";;
+		esac
+		RCOLOR="$RCOLOR$NEXTDIGIT"
+	done
+	echo $RCOLOR
+}
+
 # Main
-if [[ -f "/usr/bin/wal" ]]; then
-	if [[ "$1" ]]; then
-		pywal_get "$1"
+BG='#141C21'	# change to light bg
+FG='#141C21'	# change to dark fg
+FGA='#FFFFFF'	# change to gray fg
+SH1=`get_random_color`
+SH2=`get_random_color`
+SH3=`get_random_color`
+SH4=`get_random_color`
+SH5=`get_random_color`
+SH6=`get_random_color`
+SH7=`get_random_color`
+SH8=`get_random_color`
 
-		# Source the pywal color file
-		. "$HOME/.cache/wal/colors.sh"
-
-		BG=`printf "%s\n" "$background"`
-		FG=`printf "%s\n" "$color0"`
-		FGA=`printf "%s\n" "$color7"`
-		SH1=`printf "%s\n" "$color1"`
-		SH2=`printf "%s\n" "$color2"`
-		SH3=`printf "%s\n" "$color1"`
-		SH4=`printf "%s\n" "$color2"`
-		SH5=`printf "%s\n" "$color1"`
-		SH6=`printf "%s\n" "$color2"`
-		SH7=`printf "%s\n" "$color1"`
-		SH8=`printf "%s\n" "$color2"`
-
-		change_color
-	else
-		echo -e "[!] Please enter the path to wallpaper. \n"
-		echo "Usage : ./pywal.sh path/to/image"
-	fi
-else
-	echo "[!] 'pywal' is not installed."
-fi
+change_color
