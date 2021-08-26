@@ -5,5 +5,5 @@ Welcome to my github page.
 # Fonts
  - Iosevka Nerd Font
  - Material Design Iconic Font
- - Material Icon
+ - Material Icons
  - AurulentSansMono Nerd Font Mono
