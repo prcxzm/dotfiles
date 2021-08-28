@@ -1,10 +1,10 @@
 ![dotfiles](https://user-images.githubusercontent.com/88080186/131210338-7c085d37-f25d-45b6-8414-eddec58cc255.png)
 # DotFiles1
 
-Welcome to my github page
+Dotfiles Backup.
 
 # Fonts
-<b>Fonts that i use for Polybar & Rxvt</b>
+<b>Fonts for Polybar & Rxvt</b>
  - Iosevka Nerd Font
  - Material Design Iconic Font
  - Material Icons
