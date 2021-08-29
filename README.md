@@ -5,19 +5,17 @@ Dotfiles Backup.
 
 # Fonts
 <b>Fonts for Polybar & Rxvt</b>
- - Iosevka Nerd Font
- - Material Design Iconic Font
- - Material Icons
- - AurulentSansMono Nerd Font Mono
+ * Iosevka Nerd Font
+ * Material Design Iconic Font
+ * Material Icons
+ * AurulentSansMono Nerd Font Mono
 
-# Screenshots
-![Screenshot_2021-08-29_14-48-09X](https://user-images.githubusercontent.com/88080186/131241412-6824d000-4a7c-472f-93bc-bb979ec2f77e.png)
-
-# Install
-
+# Clone
 ``` sh
 git clone https://github.com/Regalkun/DotFiles1.git
 
 ```
 
+# Screenshots
+![Screenshot_2021-08-29_14-48-09X](https://user-images.githubusercontent.com/88080186/131241412-6824d000-4a7c-472f-93bc-bb979ec2f77e.png)
  
