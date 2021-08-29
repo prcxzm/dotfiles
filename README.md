@@ -11,6 +11,7 @@ Dotfiles Backup.
  - AurulentSansMono Nerd Font Mono
 
 # Screenshots
-![Screenshot_2021-08-29_11-19-50](https://user-images.githubusercontent.com/88080186/131237345-229da62a-ab2e-424a-9af7-afccb6cf0845.png)
+![Screenshot_2021-08-29_14-48-09X](https://user-images.githubusercontent.com/88080186/131241412-6824d000-4a7c-472f-93bc-bb979ec2f77e.png)
+
 
  
