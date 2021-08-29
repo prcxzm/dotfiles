@@ -17,8 +17,9 @@ git clone https://github.com/Regalkun/DotFiles1.git
 ```
 
 # Screenshots
-![Screenshot_2021-08-30_01-42-04X](https://user-images.githubusercontent.com/88080186/131260098-9d1e3e9b-9822-46a2-bd42-314fa57d6341.png)
-![Screenshot_2021-08-30_02-05-42X](https://user-images.githubusercontent.com/88080186/131260805-2a258e4a-4a33-45e0-aef9-4cbb56705d6e.png)
+![Screenshot_2021-08-30_01-42-04](https://user-images.githubusercontent.com/88080186/131266923-bd6def40-a81a-4a14-8ba7-9b1906104c60.png)
+![Screenshot_2021-08-30_02-05-30](https://user-images.githubusercontent.com/88080186/131266924-b0461b7d-ead2-4297-be39-cf40e376835e.png)
+
 
 
  
