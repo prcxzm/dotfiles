@@ -11,7 +11,7 @@ picom --experimental-backends &
 xrdb -load ~/.Xdefaults &
 dunst &
 bspwm &
-notify-send "Hello Regal.."
+notify-send "Hello Regal.." "Glad to see u" -i ~/.icons/gradient/person.png
 
 # -----------------  Monitor  ---------------------
 
