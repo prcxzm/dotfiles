@@ -93,3 +93,4 @@ color2 = "cyan"
 song_status_format = "$b$7 $2%a $4 $3 $8%t $4 $3 $5%b "
 #song_window_title_format = " {%a} | {%t}"
 
+execute_on_song_change ="~/.ncmpcpp/ncmpcpp-ueberzug/ncmpcpp_cover_art.sh" notify-send "   Now Playing" "$(mpc current)" -i ~/.icons/gradient/song.png
