@@ -5,10 +5,10 @@ Here's my Dotfiles backup..
 
 # Fonts
 <b>Fonts for Polybar & Rxvt</b>
- * Iosevka Nerd Font
- * Material Design Iconic Font
- * Material Icons
- * AurulentSansMono Nerd Font Mono (Rxvt)
+ * `Iosevka Nerd Font`
+ * `Material Design Iconic Font`
+ * `Material Icons`
+ * `AurulentSansMono Nerd Font Mono` (Rxvt)
 
 # Clone
 ``` sh
