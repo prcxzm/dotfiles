@@ -1,7 +1,0 @@
-call plug#begin('~/.vim/plugged')
-
-Plug 'flazz/vim-colorschemes'
-Plug 'vim-airline/vim-airline'
-set number
-
-call plug#end()
