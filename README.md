@@ -12,7 +12,7 @@ Here's my Dotfiles backup..
 
 # Clone
 ``` sh
-git clone https://github.com/Regalkun/DotFiles1.git
+git clone https://github.com/1nonlyy/DotFiles1
 
 ```
 
