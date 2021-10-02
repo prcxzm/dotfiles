@@ -5,9 +5,9 @@ Here's my Dotfiles backup..
 
 # Fonts
 <b>Fonts for Polybar & Rxvt</b>
- * `Iosevka Nerd Font`
- * `Material Design Iconic Font`
- * `Material Icons`
+ * `Iosevka Nerd Font` (Polybar)
+ * `Material Design Iconic Font` (Polybar)
+ * `Material Icons` (Polybar)
  * `AurulentSansMono Nerd Font Mono` (URxvt)
  * `JetBrains Nerd Font Mono` (URxvt)
 
