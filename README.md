@@ -8,7 +8,8 @@ Here's my Dotfiles backup..
  * `Iosevka Nerd Font`
  * `Material Design Iconic Font`
  * `Material Icons`
- * `AurulentSansMono Nerd Font Mono` (Rxvt)
+ * `AurulentSansMono Nerd Font Mono` (URxvt)
+ * `JetBrains Nerd Font Mono` (URxvt)
 
 # Clone
 ``` sh
