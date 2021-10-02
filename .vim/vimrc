@@ -1,0 +1,135 @@
+"               
+"                 
+"
+"                  ██╗   ██╗██╗███╗   ███╗██████╗  ██████╗
+"                  ██║   ██║██║████╗ ████║██╔══██╗██╔════╝
+"                  ██║   ██║██║██╔████╔██║██████╔╝██║     
+"                  ╚██╗ ██╔╝██║██║╚██╔╝██║██╔══██╗██║     
+"                   ╚████╔╝ ██║██║ ╚═╝ ██║██║  ██║╚██████╗
+"                    ╚═══╝  ╚═╝╚═╝     ╚═╝╚═╝  ╚═╝ ╚═════╝
+"                                                         
+"
+"
+" =======================================================================
+"
+
+
+call plug#begin('~/.vim/plugged')
+
+" Plug "
+
+Plug 'flazz/vim-colorschemes'
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'vifm/vifm.vim'
+Plug 'preservim/nerdtree'
+Plug 'ryanoasis/vim-devicons'
+Plug 'junegunn/fzf.vim'
+
+" let "
+
+let g:airline_powerline_fonts = 1
+let g:airline_theme='onedark'
+let g:airline#extensions#tabline#enabled = 1
+let g:airline#extensions#tabline#formatter = 'unique_tail_improved'
+let g:airline#extensions#tabline#fnamemod = ':t'
+let g:fzf_colors =
+            \ { 'fg':      ['fg', 'Normal'],
+            \ 'bg':      ['bg', 'Normal'],
+            \ 'hl':      ['fg', 'Comment'],
+            \ 'fg+':     ['fg', 'CursorLine', 'CursorColumn', 'Normal'],
+            \ 'bg+':     ['bg', 'CursorLine', 'CursorColumn'],
+            \ 'hl+':     ['fg', 'Statement'],
+            \ 'info':    ['fg', 'PreProc'],
+            \ 'border':  ['fg', 'Ignore'],
+            \ 'prompt':  ['fg', 'Conditional'],
+            \ 'pointer': ['fg', 'Exception'],
+            \ 'marker':  ['fg', 'Keyword'],
+            \ 'spinner': ['fg', 'Label'],
+	    \ 'header':  ['fg', 'Comment'] }
+
+" WebDevIcons "
+
+let g:webdevicons_enable = 1
+let g:webdevicons_enable_nerdtree = 1
+let g:webdevicons_enable_vimfiler = 1
+let g:webdevicons_enable_unite = 1
+let g:webdevicons_enable_startify = 1
+let g:webdevicons_enable_airline_tabline = 1
+let g:webdevicons_enable_airline_statusline = 1
+let g:webdevicons_enable_flagship_statusline = 1
+let g:WebDevIconsUnicodeGlyphDoubleWidth = 1
+let g:WebDevIconsUnicodeDecorateFileNodes = 1
+let g:WebDevIconsNerdTreeAfterGlyphPadding = '  '
+
+let g:WebDevIconsUnicodeDecorateFileNodesDefaultSymbol = ''
+let g:WebDevIconsUnicodeByteOrderMarkerDefaultSymbol = ''
+let g:WebDevIconsUnicodeDecorateFolderNodes = 1
+let g:DevIconsEnableFolderPatternMatching = 1
+let g:WebDevIconsUnicodeDecorateFolderNodesDefaultSymbol = ''
+let g:DevIconsDefaultFolderOpenSymbol = ''
+
+" airline "
+ 
+ if !exists('g:airline_symbols')
+    let g:airline_symbols = {}
+ endif
+
+    " unicode symbols "
+
+  let g:airline_left_sep = '»'
+  let g:airline_left_sep = '▶'
+  let g:airline_right_sep = '«'
+  let g:airline_right_sep = '◀'
+  let g:airline_symbols.colnr = ' ㏇:'
+  let g:airline_symbols.colnr = ' ℅:'
+  let g:airline_symbols.crypt = ''
+  let g:airline_symbols.linenr = ''
+  let g:airline_symbols.linenr = '  :'
+  let g:airline_symbols.linenr = ' :'
+  let g:airline_symbols.linenr = '¶'
+  let g:airline_symbols.maxlinenr = ''
+  let g:airline_symbols.maxlinenr = ''
+  let g:airline_symbols.branch = ''
+  let g:airline_symbols.paste = 'ρ'
+  let g:airline_symbols.paste = 'Þ'
+  let g:airline_symbols.paste = ''
+  let g:airline_symbols.spell = ''
+  let g:airline_symbols.notexists = 'Ɇ'
+  let g:airline_symbols.whitespace = ''
+
+  " powerline symbols "
+
+  let g:airline_left_sep = ''
+  let g:airline_left_alt_sep = ''
+  let g:airline_right_sep = ''
+  let g:airline_right_alt_sep = ''
+  let g:airline_symbols.branch = ''
+  let g:airline_symbols.colnr = '   :'
+  let g:airline_symbols.readonly = ''
+  let g:airline_symbols.linenr = '   :'
+  let g:airline_symbols.maxlinenr = ' '
+  let g:airline_symbols.dirty='⚡'
+
+" set "
+
+set termguicolors
+set encoding=UTF-8
+set number
+set guifont=JetBrains\ Nerd\ Font\ Mono\ 12
+set laststatus=2
+set t_Co=256
+
+" mapping "
+
+nnoremap <leader>n :NERDTreeFocus<CR>
+nnoremap <C-n> :NERDTree<CR>
+nnoremap <C-t> :NERDTreeToggle<CR>
+nnoremap <C-f> :NERDTreeFind<CR>
+
+" other "
+
+syntax on
+colorscheme onedark
+
+call plug#end()
