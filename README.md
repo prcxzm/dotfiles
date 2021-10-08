@@ -18,8 +18,9 @@ git clone https://github.com/1nonlyy/DotFiles1
 ```
 
 # Screenshots
-![Screenshot_2021-08-30_01-42-04](https://user-images.githubusercontent.com/88080186/131266923-bd6def40-a81a-4a14-8ba7-9b1906104c60.png)
-![Screenshot_2021-08-30_02-05-42](https://user-images.githubusercontent.com/88080186/131266941-f985c326-65a7-4a79-a109-cf09fd56c6a6.png)
+![2021-10-08_10-35 edited](https://user-images.githubusercontent.com/88080186/136490006-3fde3239-28bb-421d-ba34-ca99ace89da6.png)
+![2021-10-08_10-39 edited](https://user-images.githubusercontent.com/88080186/136490037-d5355fbf-c3a9-4538-843b-1f9e736ce486.png)
+
 
 
 
