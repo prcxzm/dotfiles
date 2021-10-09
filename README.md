@@ -8,6 +8,7 @@ Here's my Dotfiles backup..
  * `Iosevka Nerd Font` (Polybar)
  * `Material Design Iconic Font` (Polybar)
  * `Material Icons` (Polybar)
+ * `MesloLGL Nerd Font Mono` (Polybar)
  * `AurulentSansMono Nerd Font Mono` (URxvt)
  * `JetBrains Nerd Font Mono` (URxvt)
 
@@ -18,8 +19,9 @@ git clone https://github.com/1nonlyy/DotFiles1
 ```
 
 # Screenshots
-![2021-10-09_14-30 edited](https://user-images.githubusercontent.com/88080186/136646986-1d5b5e6f-8e66-4548-a6ab-2aebd3a34359.png)
-![2021-10-08_10-39 edited](https://user-images.githubusercontent.com/88080186/136646990-1764a378-5d14-4590-8926-29b2f8e916cf.png)
+![2021-10-09_16-25 edited](https://user-images.githubusercontent.com/88080186/136650646-27beef44-1e91-4811-bc22-beb3a204a535.png)
+![2021-10-08_10-39 edited](https://user-images.githubusercontent.com/88080186/136650665-3895d9ec-ba78-426f-8158-bd5f84a63c48.png)
+
 
 
 
