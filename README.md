@@ -8,6 +8,7 @@ Here's my Dotfiles backup..
  * `Iosevka Nerd Font` (Polybar)
  * `Material Design Iconic Font` (Polybar)
  * `Material Icons` (Polybar)
+ * `JetBrainsMono Nerd Font Bandit` (Polybar)
  * `MesloLGL Nerd Font Mono` (Polybar)
  * `AurulentSansMono Nerd Font Mono` (URxvt)
  * `JetBrains Nerd Font Mono` (URxvt)
