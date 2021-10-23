@@ -1,0 +1,76 @@
+!        
+!
+!		██╗   ██╗██████╗ ██╗  ██╗██╗   ██╗████████╗
+!		██║   ██║██╔══██╗╚██╗██╔╝██║   ██║╚══██╔══╝
+!		██║   ██║██████╔╝ ╚███╔╝ ██║   ██║   ██║   	
+!		██║   ██║██╔══██╗ ██╔██╗ ╚██╗ ██╔╝   ██║   
+!		╚██████╔╝██║  ██║██╔╝ ██╗ ╚████╔╝    ██║   
+! 		 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   
+!                                  
+!
+!
+! ======================================================================
+!
+
+
+!! ===========  Appearances  ============
+
+URxvt.termName: rxvt-unicode
+URxvt.internalBorder: 30
+URxvt.cursorBlink: true
+URxvt.scrollBar: false
+URxvt.background: #1E222A
+URxvt.foreground: #ffffff
+URxvt.cursorBlink: true
+
+!! ===========  Fonts prefferenes  ============
+
+URxvt.font: xft:JetBrainsMono Nerd Font Mono:size=10:autohint=true,xft:JetBrainsMono Nerd Font Mono:size=11:antialias=false
+URxvt.boldFont: xft:JetBrainsMono Nerd Font Mono:size=11:weight=bold
+URxvt.letterSpace: -1
+
+!! ============  Larger history limit  =============
+
+URxvt.saveLines: 1000000
+
+!! =============  Perl extensions  ==============
+
+URxvt.perl-ext-common: default,font-size,fullscreen
+
+!! ==============  Open urls in browser with Control-Click  ===============
+
+URxvt.urlLauncher: /usr/bin/firefox
+URxvt.matcher.button: C1
+
+!! ===============  Change font size on Control-Plus/Minus  ==================
+
+URxvt.iso14755: false
+URxvt.iso14755_52: false
+URxvt.keysym.C-Down: resize-font:smaller
+Urxvt.keysym.C-Up: resize-font:bigger
+
+!! ===============  Urxvt keysyms  ==================
+
+URxvt.keysym.F11: perl:fullscreen:switch
+URxvt.keysym.Control-Shift-V: eval:paste_clipboard
+URxvt.keysym.Control-Shift-C: eval:selection_to_clipboard
+
+!! ===============  Color schemes  =================
+
+URxvt.color0: #3f4c5e
+URxvt.color1: #BF616A
+URxvt.color2: #A3BE8C
+URxvt.color3: #EBCB8B
+URxvt.color4: #D08770
+URxvt.color5: #81A1C1
+URxvt.color6: #B48EAD
+URxvt.color7: #cccccc
+URxvt.color8: #3f4c5e
+URxvt.color9: #BF616A
+URxvt.color10: #A3BE8C
+URxvt.color11: #EBCB8B
+URxvt.color12: #D08770
+URxvt.color13: #81A1C1
+URxvt.color14: #B48EAD
+URxvt.color15: #cccccc
+URxvt.colorBD: #cccccc
