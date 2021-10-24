@@ -2,10 +2,11 @@
 
 # DotFiles1 ❄️
 
-Here's my Dotfiles backup..
+My own Dotfiles backup..
 
 # Fonts ☃️
 <b>Fonts for Polybar & URxvt</b> 
+Here's my most fonts that i used on Polybar & URxvt
 
 
 *💌 URxvt glyphs patch from : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/*
