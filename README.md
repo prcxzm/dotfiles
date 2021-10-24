@@ -5,7 +5,7 @@
 Here's my Dotfiles backup..
 
 # Fonts 🌻
-<b>Fonts for Polybar & Rxvt</b> 
+<b>Fonts for Polybar & URxvt</b> 
 
 
 *💌 URxvt glyphs patch from : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/*
