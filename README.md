@@ -6,6 +6,8 @@ Here's my Dotfiles backup..
 
 # Fonts
 <b>Fonts for Polybar & Rxvt</b>
+ * *You need to patch URxvt from https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
+  to fix glyphs in URxvt*
  * `Iosevka Nerd Font` (Polybar)
  * `Material Design Iconic Font` (Polybar)
  * `Material Icons` (Polybar)
