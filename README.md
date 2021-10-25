@@ -12,6 +12,7 @@ Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a s
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
 * JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium
+* W3m (ranger image viewer) 
 
 # Fonts ☃️
 <b>Fonts for Polybar & URxvt</b> 
