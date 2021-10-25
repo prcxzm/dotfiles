@@ -8,7 +8,7 @@ My own Dotfiles backup..
 
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
-* JetBrainsMono Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium
+* JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium
 
 # Fonts ☃️
 <b>Fonts for Polybar & URxvt</b> 
