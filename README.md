@@ -4,14 +4,17 @@
 
 My own Dotfiles backup..
 
+# Dependencies 💌 
+
+*URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/*
+*URxvt resize font : https://github.com/simmel/urxvt-resize-font*
+
 # Fonts ☃️
 <b>Fonts for Polybar & URxvt</b> 
 
 
 Here's my most fonts that i used on Polybar & URxvt
 
-
-*💌 URxvt glyphs patch from : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/*
 
  * `Iosevka Nerd Font` (Polybar)
  * `Material Design Iconic Font` (Polybar)
