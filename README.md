@@ -2,7 +2,8 @@
 
 # DotFiles1 ❄️
 
-My own Dotfiles backup..
+Welcome to my Dotfiles backup !
+Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a simple setup, but i'm really happy with the progess i've been doing over the last few months. I'm very satisfied with the result ❤️
 
 # Dependencies 💌 
 
