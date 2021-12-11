@@ -12,7 +12,8 @@ Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a s
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
 * JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium 
-* Powerline Patches Font : https://github.com/powerline/fonts
+* Powerline patches font : https://github.com/powerline/fonts
+* Nerd Font patches : https://github.com/ryanoasis/nerd-fonts
 * Picom config : https://github.com/yshui/picom
 * w3m (image viewer for URxvt)
 * wmctrl (fetch stuff)
