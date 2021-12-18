@@ -9,6 +9,7 @@ Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a s
 
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
+* Lsd (LsDeluxe) : https://github.com/Peltoche/lsd
 * Zsh Autosuggestions Plugin : https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 * Zsh Syntax Highlighting Plugin : https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 * JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium 
