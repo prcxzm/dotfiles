@@ -1,5 +1,3 @@
-![Dotfile](https://user-images.githubusercontent.com/88080186/136683691-387b4688-8cc1-4cc7-9428-296bae1d73c7.png)
-
 # DotFiles1 ❄️
 
 Welcome to my Dotfiles backup !
