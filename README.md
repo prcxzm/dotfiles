@@ -1,4 +1,4 @@
-# DotFiles1 ❄️
+# DotFiles1 🌻 
 
 Welcome to my Dotfiles backup !
 
@@ -16,7 +16,7 @@ Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a s
 * w3m (image viewer for URxvt)
 * wmctrl (fetch stuff)
 
-# Fonts ☃️
+# Fonts 🍀
 <b>Fonts for Polybar & URxvt</b> 
 
 
@@ -30,16 +30,16 @@ Here's my most fonts that i used on Polybar & URxvt
  * `MesloLGL Nerd Font Mono` (Polybar)
  * `JetBrains Nerd Font` (URxvt)
 
-# Clone 🌧
+# Clone 🌼
 ``` sh
 git clone https://github.com/1nonlyy/DotFiles1
 
 ```
 
-# Screenshots 🌌
-![2021-10-25_08-28 edited](https://user-images.githubusercontent.com/88080186/138619201-ce5c3b94-cd78-4be7-8a1b-441c5c4126bf.png)
-![2021-10-25_23-59 edited](https://user-images.githubusercontent.com/88080186/138730292-b152621a-e07c-4b9c-a76e-16da0258e345.png)
-![2021-10-27_19-30 edited](https://user-images.githubusercontent.com/88080186/139057384-9987b2e1-e583-4c02-a9c8-ba5055f0b066.png)
+# Screenshots 📸
+![2021-12-18_00-12 edited](https://user-images.githubusercontent.com/88080186/146648038-9b19a60a-c187-4399-8ee0-dcbb8633ef0a.png)
+![2021-12-18_00-16 edited](https://user-images.githubusercontent.com/88080186/146648050-c41b0ec2-769f-4c6e-90e5-231279f3c2fb.png)
+
 
 
 
