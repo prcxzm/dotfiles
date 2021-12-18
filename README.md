@@ -5,11 +5,15 @@ Welcome to my Dotfiles backup !
 
 Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a simple setup, but i'm so happy with the progess i've been doing over the last few months. I'm very satisfied with the result ❤️
 
+# My Tools ✨
+
+* Smart Monitoring Tools : https://wiki.archlinux.org/title/S.M.A.R.T.
+* Lsd (LsDeluxe) : https://github.com/Peltoche/lsd
+
 # Dependencies 💌 
 
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
-* Lsd (LsDeluxe) : https://github.com/Peltoche/lsd
 * Zsh Autosuggestions Plugin : https://github.com/zsh-users/zsh-autosuggestions/blob/master/INSTALL.md
 * Zsh Syntax Highlighting Plugin : https://github.com/zsh-users/zsh-syntax-highlighting/blob/master/INSTALL.md
 * JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium 
