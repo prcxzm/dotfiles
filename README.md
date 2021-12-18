@@ -9,6 +9,7 @@ Here is my place to backup all my Ricing setup (Dotfiles).. Even though just a s
 
 * Smart Monitoring Tools : https://wiki.archlinux.org/title/S.M.A.R.T.
 * Lsd (LsDeluxe) : https://github.com/Peltoche/lsd
+* Gotop : https://aur.archlinux.org/packages/gotop/
 
 # Dependencies 💌 
 
