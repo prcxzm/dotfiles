@@ -1,6 +1,6 @@
 # DotFiles1 🌻 
 
-Welcome to my Artix Dotfiles backup !
+Welcome to my Dotfiles backup !
 
 
 Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Even though just a simple setup, but i'm so happy with the progess i've been doing over the last few months. I'm very satisfied with the result ❤️
