@@ -9,11 +9,12 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 ![2021-12-18_00-16 edited](https://user-images.githubusercontent.com/88080186/146664659-cf2729d7-7a9d-45aa-b3e3-1382f1e15f73.png)
 ![2021-12-18_10-27 edited](https://user-images.githubusercontent.com/88080186/146664663-fca20672-363d-4362-a78a-7b20aa72f6a5.png)
 
-# My Tools ✨
+# Tools ✨
 
 * Smart Monitoring Tools : https://wiki.archlinux.org/title/S.M.A.R.T.
 * Lsd (LsDeluxe) : https://github.com/Peltoche/lsd
 * Gotop : https://aur.archlinux.org/packages/gotop/
+* Color Script : https://gitlab.com/dwt1/shell-color-scripts
 
 # Dependencies 💌 
 
