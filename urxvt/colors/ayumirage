@@ -1,0 +1,23 @@
+!! Ayu Mirage Color Schemes
+
+*.foreground: 			#cbccc6
+*.background: 			#1F2430
+*.cursorColor: 			#cbccc6
+
+*.color0: 			#707a8c
+*.color1: 			#ff3333
+*.color2: 			#bae67e
+*.color3: 			#ffa759
+*.color4: 			#73d0ff
+*.color5: 			#d4bfff
+*.color6: 			#95e6cb
+*.color7: 			#cbccc6
+
+*.color8: 			#707a8c
+*.color9: 			#ff3333
+*.color10: 			#bae67e
+*.color11: 			#ffa759
+*.color12: 			#73d0ff
+*.color13: 			#d4bfff
+*.color14: 			#95e6cb
+*.color15: 			#cbccc6

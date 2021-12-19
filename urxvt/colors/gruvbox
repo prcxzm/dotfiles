@@ -1,0 +1,65 @@
+
+!! Gruvbox Color Schemes
+
+! Background
+
+#define bg0 #282828
+#define bg1 #1d2021
+#define bg2 #3c3836
+#define bg3 #504945
+#define bg4 #665c54
+#define bg5 #7c6f64
+#define bg6 #32302f
+
+! Foreground
+
+#define fg0 #fbf1c7
+#define fg1 #ebdbb2
+#define fg2 #d5c4a1
+#define fg3 #bdae93
+#define fg4 #a89984
+
+! Main Color
+
+*.foreground: 			fg2
+*.background: 			bg2
+*.cursorColor: 			fg2
+
+*.color0: 			#928374
+*.color1: 			#cc241d
+*.color2: 			#98971a
+*.color3: 			#d79921
+*.color4: 			#458588
+*.color5: 			#b16286
+*.color6: 			#689d6a
+*.color7: 			#ebdbb2
+
+*.color8: 			#a89984
+*.color9: 			#fb4934
+*.color10: 			#b8bb26
+*.color11: 			#fabd2f
+*.color12: 			#83a598
+*.color13: 			#d3869b
+*.color14: 			#8ec07c
+*.color15: 			#ebdbb2
+
+! Main Color 2
+
+*.color0: 			#a89984
+*.color1: 			#fb4934
+*.color2: 			#b8bb26
+*.color3: 			#fabd2f
+*.color4: 			#83a598
+*.color5: 			#d3869b
+*.color6: 			#8ec07c
+*.color7: 			#ebdbb2
+
+*.color8: 			#928374
+*.color9: 			#cc241d
+*.color10: 			#98971a
+*.color11: 			#d79921
+*.color12: 			#458588
+*.color13: 			#b16286
+*.color14: 			#689d6a
+*.color15: 			#ebdbb2
+

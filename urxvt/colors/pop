@@ -1,0 +1,23 @@
+!! Pop Color Schemes
+
+*.foreground: 			#D6D9DF	
+*.background: 			#1E1E29
+*.cursorColor: 			#D6D9DF
+
+*.color0: 			#1E1E29
+*.color1: 			#E18B8B
+*.color2: 			#B2E0A2
+*.color3: 			#E9DC9F
+*.color4: 			#A3B8EE
+*.color5: 			#C5A9E7
+*.color6: 			#EFAEE0
+*.color7: 			#D6D9DF
+
+*.color8: 			#1E1E29
+*.color9: 			#E18B8B
+*.color10: 			#B2E0A2
+*.color11: 			#E9DC9F
+*.color12: 			#A3B8EE
+*.color13: 			#C5A9E7
+*.color14: 			#EFAEE0
+*.color15: 			#D6D9DF
