@@ -1,0 +1,112 @@
+!        
+!
+!		██╗   ██╗██████╗ ██╗  ██╗██╗   ██╗████████╗
+!		██║   ██║██╔══██╗╚██╗██╔╝██║   ██║╚══██╔══╝
+!		██║   ██║██████╔╝ ╚███╔╝ ██║   ██║   ██║   	
+!		██║   ██║██╔══██╗ ██╔██╗ ╚██╗ ██╔╝   ██║   
+!		╚██████╔╝██║  ██║██╔╝ ██╗ ╚████╔╝    ██║   
+! 		 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   
+!                                  
+!
+!
+! ======================================================================
+!
+
+!! ============  Transparent  ==============
+
+!URxvt.transparent:            true
+!URxvt.shading:                10
+
+!! ===========  Appearances  ============
+
+URxvt.geometry:			90x20
+URxvt.depth: 			32
+URxvt.termName: 		rxvt-unicode
+URxvt.internalBorder: 		30
+URxvt.cursorBlink: 		true
+URxvt.scrollBar: 		false
+URxvt.scrollBar_right: 		false
+URxvt.scrollBar_floating: 	false
+URxvt.scrollstyle: 		plain
+
+!! ===========  Fonts prefferenes  ============
+
+URxvt.font: 			xft:mononoki Nerd Font:size=10:autohint=true:antialias=true:hinting=true
+URxvt.boldFont: 		xft:mononoki Nerd Font:size=10:autohint=true:antialias=true:hinting=true:weight=bold
+URxvt.letterSpace: 		0
+URxvt.lineSpace: 		3
+
+!! ============  Larger history limit  =============
+
+URxvt.saveLines: 		1000000
+
+!! =============  Perl extensions  ==============
+
+urxvt.perl-ext-common: 		default,tabbed,matcher,resize-font,-tabbed
+
+!! ==============  Open urls in browser with Control-Click  ===============
+
+URxvt.urlLauncher: 		/usr/bin/firefox
+URxvt.matcher.button: 		C1
+
+!! ===============  Change font size on Control-Plus/Minus  ==================
+
+URxvt.iso14755: 		false
+URxvt.iso14755_52: 		false
+URxvt.keysym.C-minus:     	resize-font:smaller
+URxvt.keysym.C-plus:      	resize-font:bigger
+URxvt.keysym.C-equal:     	resize-font:reset
+URxvt.keysym.C-question:  	resize-font:show
+
+!! ===============  Urxvt keysyms  ==================
+
+URxvt.keysym.F11: 		perl:fullscreen:switch
+URxvt.keysym.Control-Shift-V: 	eval:paste_clipboard
+URxvt.keysym.Control-Shift-C: 	eval:selection_to_clipboard
+
+!! ===============  Color schemes  =================
+
+!! Default URxvt Color Config
+
+!URxvt.color0: 			#1E1E29
+!URxvt.color1:			#E18B8B
+!URxvt.color2: 			#B2E0A2
+!URxvt.color3: 			#E9DC9F
+!URxvt.color4: 			#A3B8EE
+!URxvt.color5: 			#C5A9E7
+!URxvt.color6: 			#EFAEE0
+!URxvt.color7: 			#D6D9DF
+
+!URxvt.color8: 			#1E1E29
+!URxvt.color9: 			#E18B8B
+!URxvt.color10: 		#B2E0A2
+!URxvt.color11: 		#E9DC9F
+!URxvt.color12: 		#A3B8EE
+!URxvt.color13: 		#C5A9E7
+!URxvt.color14: 		#EFAEE0
+!URxvt.color15: 		#D6D9DF
+!URxvt.colorBD: 		#D6D9DF
+
+!! Night Forest Color Schemes
+
+*.foreground: 			#D8CAAC
+*.background: 			#323D43
+*.cursorColor: 			#D8CAAC
+
+*.color0: 			#868D80
+*.color1: 			#E68183
+*.color2: 			#A7C080
+*.color3: 			#D9BB80
+*.color4: 			#89BEBA
+*.color5: 			#D3A0BC
+*.color6: 			#87C095
+*.color7: 			#D8CAAC
+
+*.color8: 			#868D80
+*.color9: 			#E68183
+*.color10: 			#A7C080
+*.color11: 			#D9BB80
+*.color12: 			#89BEBA
+*.color13: 			#D3A0BC
+*.color14: 			#87C095
+*.color15: 			#D8CAAC
