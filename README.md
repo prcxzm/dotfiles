@@ -29,8 +29,6 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 * wmctrl (fetch stuff)
 
 # Fonts 🍀
-<b>Fonts for Polybar & URxvt</b> 
-
 
 Here's my most used fonts on Polybar, URxvt, & Kitty
 
