@@ -15,7 +15,7 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 * Gotop : https://aur.archlinux.org/packages/gotop/
 * Color Script : https://gitlab.com/dwt1/shell-color-scripts
 
-# Dependencies 💌 
+# My Dependencies 💌 
 
 * URxvt glyphs patch : https://aur.archlinux.org/packages/rxvt-unicode-truecolor-wide-glyphs/
 * URxvt resize font : https://github.com/simmel/urxvt-resize-font
