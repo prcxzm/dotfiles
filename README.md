@@ -7,7 +7,6 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 
 ![2021-12-18_00-12 edited](https://user-images.githubusercontent.com/88080186/146664656-f69f8068-ceb7-4e00-8558-3b83ada9bc43.png)
 ![2021-12-18_00-16 edited](https://user-images.githubusercontent.com/88080186/146664659-cf2729d7-7a9d-45aa-b3e3-1382f1e15f73.png)
-![2021-12-18_10-27 edited](https://user-images.githubusercontent.com/88080186/146664663-fca20672-363d-4362-a78a-7b20aa72f6a5.png)
 
 # Tools ✨
 
@@ -33,15 +32,20 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 <b>Fonts for Polybar & URxvt</b> 
 
 
-Here's my most fonts that i used on Polybar & URxvt
+Here's my most used fonts on Polybar, URxvt, & Kitty
 
-
- * `Iosevka Nerd Font` (Polybar)
- * `Material Design Iconic Font` (Polybar)
- * `Material Icons` (Polybar)
- * `JetBrainsMono Nerd Font Bandit` (Polybar)
- * `MesloLGL Nerd Font Mono` (Polybar)
- * `JetBrainsMono Nerd Font` (URxvt)
+`Polybar`
+ * Iosevka Nerd Font
+ * Material Design Iconic Font
+ * Material Icons
+ * JetBrainsMono Nerd Font Bandit 
+ * MesloLGL Nerd Font Mono 
+ * JetBrainsMono Nerd Font
+ 
+ `URxvt/Kitty`
+ * JetBrainsMono Nerd Font
+ * Iosevka Nerd Font
+ * mononoki Nerd Font
 
 # Clone 🌼
 ``` sh
