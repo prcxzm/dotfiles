@@ -24,7 +24,7 @@ Here is my place to backup all my Ricing setup (Dotfiles) on my Artix Linux.. Ev
 * JetBrainsMono Nerd Font Bandithijo : https://github.com/bandithijo/JetBrainsMonoNerdFontCompleteBandit-Medium 
 * Powerline patches font : https://github.com/powerline/fonts
 * Nerd Font patches : https://github.com/ryanoasis/nerd-fonts
-* Picom : https://github.com/yshui/picom
+* [Picom](https://github.com/yshui/picom)
 * Xinput for mousepad : https://aur.archlinux.org/xorg-xinput-git.git
 * w3m (image viewer for URxvt)
 * wmctrl (fetch stuff)
