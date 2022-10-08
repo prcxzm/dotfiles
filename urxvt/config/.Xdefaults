@@ -1,0 +1,114 @@
+!        
+!
+!		██╗   ██╗██████╗ ██╗  ██╗██╗   ██╗████████╗
+!		██║   ██║██╔══██╗╚██╗██╔╝██║   ██║╚══██╔══╝
+!		██║   ██║██████╔╝ ╚███╔╝ ██║   ██║   ██║   	
+!		██║   ██║██╔══██╗ ██╔██╗ ╚██╗ ██╔╝   ██║   
+!		╚██████╔╝██║  ██║██╔╝ ██╗ ╚████╔╝    ██║   
+! 		 ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝  ╚═══╝     ╚═╝   
+!                                  
+!
+!
+! ======================================================================
+!
+
+!! ============  Transparent  ==============
+
+!URxvt.transparent:            true
+!URxvt.shading:                10
+
+!! ===========  Appearances  ============
+
+URxvt.geometry:			90x20
+URxvt.depth: 			32
+URxvt.termName: 		rxvt-unicode
+URxvt.internalBorder: 		30
+URxvt.cursorBlink: 		true
+URxvt.scrollBar: 		false
+URxvt.scrollBar_right: 		false
+URxvt.scrollBar_floating: 	false
+URxvt.scrollstyle: 		plain
+
+!! ===========  Fonts prefferenes  ============
+
+URxvt.font: 			xft:JetBrainsMono Nerd Font:size=8:autohint=true:antialias=true:hinting=true
+URxvt.boldFont: 		xft:JetBrainsMono Nerd Font:size=8:autohint=true:antialias=true:hinting=true:weight=bold
+URxvt.letterSpace: 		0
+URxvt.lineSpace: 		3
+
+!! ============  Larger history limit  =============
+
+URxvt.saveLines: 		1000000
+
+!! =============  Perl extensions  ==============
+
+urxvt.perl-ext-common: 		default,tabbed,matcher,resize-font,-tabbed
+
+!! ==============  Open urls in browser with Control-Click  ===============
+
+URxvt.urlLauncher: 		/usr/bin/firefox
+URxvt.matcher.button: 		C1
+
+!! ===============  Change font size on Control-Plus/Minus  ==================
+
+URxvt.iso14755: 		false
+URxvt.iso14755_52: 		false
+URxvt.keysym.C-minus:     	resize-font:smaller
+URxvt.keysym.C-plus:      	resize-font:bigger
+URxvt.keysym.C-equal:     	resize-font:reset
+URxvt.keysym.C-question:  	resize-font:show
+
+!! ===============  Urxvt keysyms  ==================
+
+URxvt.keysym.F11: 		perl:fullscreen:switch
+URxvt.keysym.Control-Shift-V: 	eval:paste_clipboard
+URxvt.keysym.Control-Shift-C: 	eval:selection_to_clipboard
+
+!! ===============  Color schemes  =================
+
+!! Default URxvt Color Config
+
+!URxvt.color0: 			#1E1E29
+!URxvt.color1:			#E18B8B
+!URxvt.color2: 			#B2E0A2
+!URxvt.color3: 			#E9DC9F
+!URxvt.color4: 			#A3B8EE
+!URxvt.color5: 			#C5A9E7
+!URxvt.color6: 			#EFAEE0
+!URxvt.color7: 			#D6D9DF
+
+!URxvt.color8: 			#1E1E29
+!URxvt.color9: 			#E18B8B
+!URxvt.color10: 		#B2E0A2
+!URxvt.color11: 		#E9DC9F
+!URxvt.color12: 		#A3B8EE
+!URxvt.color13: 		#C5A9E7
+!URxvt.color14: 		#EFAEE0
+!URxvt.color15: 		#D6D9DF
+!URxvt.colorBD: 		#D6D9DF
+
+!! Gruvbox Material Color Schemes
+
+*.foreground: 			#C5B89F
+!*.background: 			#1E2122
+*.background:			#282828 
+*.cursorColor: 			#C5B89F
+
+*.color0: 			#282B2C
+*.color1: 			#DF736D
+*.color2: 			#A8B467
+*.color3: 			#D28E63
+*.color4: 			#6D8DAD
+*.color5: 			#D0899D
+*.color6: 			#8DAE88
+*.color7: 			#C0B6A4
+
+*.color8: 			#32302F
+*.color9: 			#D1807B
+*.color10: 			#A5B06B
+*.color11: 			#D6B676
+*.color12: 			#748FAA
+*.color13: 			#CB8E9E
+*.color14: 			#89B482
+*.color15: 			#C5B89F
+

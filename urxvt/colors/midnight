@@ -1,0 +1,23 @@
+!! Midnight Color Schemes
+
+*.foreground: 			#CCCCCC
+*.background: 			#17161e
+*.cursorColor: 			#CCCCCC
+
+*.color0: 			#7C8B86
+*.color1: 			#FF6D80
+*.color2: 			#60fc5d
+*.color3: 			#F6B770
+*.color4: 			#6BD4D7
+*.color5: 			#a277ff
+*.color6: 			#61ffca
+*.color7: 			#edecee
+
+*.color8: 			#7C8B86
+*.color9: 			#FF6D80
+*.color10: 			#60fc5d
+*.color11: 			#F6B770
+*.color12: 			#6BD4D7
+*.color13: 			#a277ff
+*.color14: 			#61ffca
+*.color15: 			#edecee

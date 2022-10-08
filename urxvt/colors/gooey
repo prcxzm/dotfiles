@@ -1,0 +1,23 @@
+!! Gooey Color Scheme
+
+*.foreground: 			#9B9EA7
+*.background: 			#090D16
+*.cursorColor: 			#9B9EA7
+
+*.color0: 			#090D16
+*.color1: 			#FC416C
+*.color2: 			#04E0BD
+*.color3: 			#F48341
+*.color4: 			#2AD7E8
+*.color5: 			#5872FF
+*.color6: 			#904EA6
+*.color7: 			#858893
+
+*.color8: 			#0D101B
+*.color9: 			#ee829f
+*.color10: 			#a5ffe1
+*.color11: 			#f99170
+*.color12: 			#8be9fd
+*.color13: 			#97bbf7
+*.color14: 			#c0b7f9
+*.color15: 			#ffffff

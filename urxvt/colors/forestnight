@@ -1,0 +1,23 @@
+!! Forest Night Color Schemes
+
+*.foreground: 			#D8CAAC
+*.background: 			#323D43
+*.cursorColor: 			#D8CAAC
+
+*.color0: 			#868D80
+*.color1: 			#E68183
+*.color2: 			#A7C080
+*.color3: 			#D9BB80
+*.color4: 			#89BEBA
+*.color5: 			#D3A0BC
+*.color6: 			#87C095
+*.color7: 			#D8CAAC
+
+*.color8: 			#868D80
+*.color9: 			#E68183
+*.color10: 			#A7C080
+*.color11: 			#D9BB80
+*.color12: 			#89BEBA
+*.color13: 			#D3A0BC
+*.color14: 			#87C095
+*.color15: 			#D8CAAC

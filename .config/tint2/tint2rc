@@ -1,0 +1,173 @@
+# Background 1 : Default task
+rounded = 0
+border_width = 0  
+border_sides = TBLR
+background_color = #282C34 100
+background_color_hover = #282C34 100
+background_color_pressed = #282C34 100
+
+# Background 2 : Active task
+rounded = 5
+border_width = 0
+border_sides = TBLR
+background_color = #282C34 100
+background_color_hover = #383d47 100
+background_color_pressed = #202328 100
+
+# Background 3 : Active taskbar, Inactive taskbar
+rounded = 10
+border_width = 5
+border_sides = TBLR
+border_color = #282C34 100
+border_content_tint_weight = 0
+background_content_tint_weight = 0
+background_color = #202328 100
+background_color_hover = #383d47 100
+#border_color_hover = #000000 0
+
+#background_color_pressed = #000000 0
+#border_color_pressed = #000000 0
+
+# Background 4 : Panel
+rounded = 7
+border_width = 0
+border_sides = TBLR 
+border_color = #282C34 100
+background_color = #202328 100
+background_color_hover = #383d47 100
+
+# Background 5 
+rounded = 10
+border_width = 5 
+border_sides = TBLR 
+background_color = #383d47 100
+border_color = #282C34 100
+border_content_tint_weight = 0
+background_content_tint_weight = 0
+
+# Panel
+panel_items = PPPP:T:BE:CS
+panel_size = 100% 45 # height & width
+panel_padding = 5 0 10 # horizontal, vertical. spacing
+panel_margin = 0 2 # right & left 
+panel_background_id = 1
+panel_position = top left vertical 
+panel_monitor = all
+wm_menu = 1
+disable_transparency = 1
+mouse_effects = 1
+panel_window_name = tint2
+panel_shrink = askbar_mode = single_desktop
+
+# Button 1 
+button = new 
+button_text =  
+button_lclick_command = firefox &
+button_font = CaskaydiaCove Nerd Font 12
+button_font_color = #E06C75 100 # color & opacity
+button_padding = 8 9 # horizontal & vertical
+button_background_id = 2
+
+# Button 2
+button = new 
+button_text =   
+button_lclick_command = nemo &
+button_font = CaskaydiaCove Nerd Font 12 
+button_font_color = #E5C078 100 
+button_padding = 8 10
+button_background_id = 2
+
+# Button 2
+button = new 
+button_text = 
+button_lclick_command = urxvt
+button_font = CaskaydiaCove Nerd Font 12 
+button_font_color = #98C379 100 
+button_padding = 8 10
+button_background_id = 2
+
+# Button 4
+button = new 
+button_text =  
+button_lclick_command = telegram-desktop &
+button_font = CaskaydiaCove Nerd Font 12 
+button_font_color = #61AFEF 100 
+button_padding = 8 10
+button_background_id = 2
+
+# Taskbar
+taskbar_name = 1
+taskbar_name_padding = 5
+taskbar_name_background_id = 3
+taskbar_name_active_background_id = 5
+taskbar_name_font_color = #ABB2BF 100
+taskbar_name_active_font_color = #ABB2BF 100
+taskbar_name_font = Iosevka Mayukai Codepro SmBd 0
+taskbar_mode = single_desktop
+taskbar_padding = 10 0 5 # horizontal, vertical, spacing
+
+# Task
+task_centered = 1
+task_text = 1
+task_background_id = 3
+task_maximum_size = 15 0
+task_padding = 0 0 0
+task_active_background_id = 5
+task_font_color = #ABB2BF 100
+task_font = JetBrainsMono Nerd Font 2
+
+# Clock
+time1_format = %H %M %S
+time1_font = JetBrainsMono Nerd Font 10
+clock_font_color = #ABB2BF 100
+clock_background_id = 4
+clock_padding = 0 0
+
+# Battery  
+battery_hide = never 
+battery_low_status = 10% 
+battery_low_cmd = xmessage 'Charge Wen?'
+bat1_font = JetBrainsMono Nerd Font 10 
+bat2_font = JetBrainsMono Nerd Font 0 
+bat1_format = Batt %p 
+battery_background_id = 4
+battery_padding = 5 5 
+battery_font_color = #ABB2BF 100
+
+# Separator 1
+separator = new 
+separator_background_id = 1 
+separator_color = #1E2122 100
+separator_padding = 50
+separator_style = empty
+
+# Separator 2
+separator = new 
+separator_background_id = 1 
+separator_color = #1E2122 100
+separator_padding = 50
+separator_style = empty
+
+# Separator 3
+separator = new 
+separator_background_id = 2
+separator_size = 2 
+separator_style = line
+
+# System tray (notification area)
+systray_padding = 10 4 7
+systray_background_id = 2
+systray_sort = ascending
+systray_icon_size = 19
+systray_icon_asb = 100 0 0
+systray_monitor = primary
+systray_name_filter = string
+
+# Tooltip
+tooltip_show_timeout = 0.8
+tooltip_hide_timeout = 0.2
+tooltip_padding = 8 6
+tooltip_background_id = 1
+tooltip_font_color = #ABB2BF 100
+tooltip_font = Rubik 9
+

@@ -1,0 +1,24 @@
+!! EverBlush Color Schemes
+
+*.foreground: 			#DADADA
+*.background: 			#141B1E
+*.lightbackground:		#232A2D
+*.cursorColor: 			#DADADA
+
+*.color0: 			#232A2D
+*.color1: 			#E57474
+*.color2: 			#8CCF7E
+*.color3: 			#E5C76B
+*.color4: 			#67B0E8
+*.color5: 			#C47FD5
+*.color6: 			#6CBFBF
+*.color7: 			#B3B9B8
+
+*.color8: 			#232A2D
+*.color9: 			#E57474
+*.color10: 			#8CCF7E
+*.color11: 			#E5C76B
+*.color12: 			#67B0E8
+*.color13: 			#C47FD5
+*.color14: 			#6CBFBF
+*.color15: 			#DADADA

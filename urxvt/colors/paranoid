@@ -1,0 +1,23 @@
+!! Paranoid Color Schemes
+
+*.foreground: 			#E5E9F4
+*.background: 			#30343F
+*.cursorColor: 			#E5E9F4
+
+*.color0: 			#4B5360
+*.color1: 			#C1666B
+*.color2: 			#A1BF83
+*.color3: 			#F1C78D
+*.color4: 			#84A5C6
+*.color5: 			#B591AD
+*.color6: 			#8FE4CD
+*.color7: 			#E5E9F4
+
+*.color8: 			#4B5360
+*.color9: 			#C1666B
+*.color10: 			#A1BF83
+*.color11: 			#F1C78D
+*.color12: 			#84A5C6
+*.color13: 			#B591AD
+*.color14: 			#8FE4CD
+*.color15: 			#E5E9F4

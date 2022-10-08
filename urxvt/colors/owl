@@ -1,0 +1,23 @@
+!! Owl Color Schemes
+
+*.foreground: 			#e5e3ef
+*.background: 			#292D3E
+*.cursorColor: 			#e5e3ef
+
+*.color0: 			#a4b2b0
+*.color1: 			#FF8B94
+*.color2: 			#DCEDC1
+*.color3: 			#FFD4B7
+*.color4: 			#A8E6CF
+*.color5: 			#E2BDF0
+*.color6: 			#FFAAA5
+*.color7: 			#e5e3ef
+
+*.color8: 			#a4b2b0
+*.color9: 			#FF8B94
+*.color10: 			#DCEDC1
+*.color11: 			#FFD4B7
+*.color12: 			#A8E6CF
+*.color13: 			#E2BDF0
+*.color14: 			#FFAAA5
+*.color15: 			#e5e3ef

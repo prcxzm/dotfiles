@@ -1,0 +1,23 @@
+!! Gruvbox Material Color Schemes
+
+*.foreground: 			#C5B89F
+*.background: 			#1E2122
+*.cursorColor: 			#C5B89F
+
+*.color0: 			#282B2C
+*.color1: 			#DF736D
+*.color2: 			#A8B467
+*.color3: 			#D28E63
+*.color4: 			#6D8DAD
+*.color5: 			#D0899D
+*.color6: 			#8DAE88
+*.color7: 			#C0B6A4
+
+*.color8: 			#32302F
+*.color9: 			#D1807B
+*.color10: 			#A5B06B
+*.color11: 			#D6B676
+*.color12: 			#748FAA
+*.color13: 			#CB8E9E
+*.color14: 			#89B482
+*.color15: 			#C5B89F

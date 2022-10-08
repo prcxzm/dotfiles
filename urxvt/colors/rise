@@ -1,0 +1,24 @@
+!! Rise Color Schemes
+
+*.foreground: 			#CCCEDA
+*.background: 			#292B39
+*.cursorColor: 			#CCCEDA
+
+*.color0: 			#a4b2b0
+*.color1: 			#FC6B84
+*.color2: 			#B0DF7D
+*.color3: 			#FDD171
+*.color4: 			#67D3F1
+*.color5: 			#B1A6EC
+*.color6: 			#62DFBE
+*.color7: 			#CCCEDA
+
+*.color8: 			#a4b2b0
+*.color9: 			#FC6B84
+*.color10: 			#B0DF7D
+*.color11: 			#FF8067
+*.color12: 			#67D3F1
+*.color13: 			#ED9ACB
+*.color14: 			#F56A97
+*.color15: 			#CCCEDA
+
